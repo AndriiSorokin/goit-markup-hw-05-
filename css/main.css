@@ -384,6 +384,7 @@ nav {
 
 .team {
     display: flex;
+    background-color: #F5F4FA;
 }
 
 .team-list {
@@ -420,7 +421,7 @@ nav {
     width: 44px;
     height: 44px;
     border-radius: 50%;
-    background-color: #fff;
+    background-color: #F5F4FA;
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
